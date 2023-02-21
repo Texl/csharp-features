@@ -10,14 +10,14 @@
   - Native sized integers
   - Function pointers
   - Suppress emitting localsinit flag
-- [Fit and finish features](Features/FitAndFinishFeatures.cs)
-  - Target-typed new expressions
-  - static anonymous functions
-  - Target-typed conditional expressions
-  - Covariant return types
-  - Extension GetEnumerator support for foreach loops
-  - Lambda discard parameters
-  - Attributes on local functions
+- Fit and finish features
+  - [Target-typed new expressions](Features/TargetTypedNew.cs)
+  - [static anonymous functions](Features/StaticAnonymousFunctions.cs)
+  - [Target-typed conditional expressions](Features/TargetTypedConditionalExpressions.cs)
+  - [Covariant return types](Features/CovariantReturnTypes.cs)
+  - [Extension GetEnumerator support for foreach loops](Features/ExtensionGetEnumeratorSupport.cs)
+  - [Lambda discard parameters](Features/LambdaDiscards.cs)
+  - [Attributes on local functions](Features/LocalFunctionAttributes.cs)
 - [Support for code generators](../SourceGenerator/Generator.cs)
   - Module initializers
   - New features for partial methods

@@ -14,7 +14,7 @@
          // public void SetHeight(double height) => Height = height; // init-only - compile error
       }
 
-      public static void Create()
+      public static void Example()
       {
          Rectangle rect =
             new Rectangle()

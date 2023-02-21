@@ -12,7 +12,7 @@ namespace CSharp9.Features
          public double Height { get; init; }
       }
 
-      public static void Operations()
+      public static void Examples()
       {
          // built-in structural / value equality 
          Rectangle rect1 = new(1, 2);
