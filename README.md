@@ -1,8 +1,11 @@
 # csharp-features
-An overview of recent C# version features.
 
-For reference:
-- [What's New in C# 11](https://github.com/dotnet/docs/blob/main/docs/csharp/whats-new/csharp-11.md)
-- [What's New in C# 10](https://github.com/dotnet/docs/blob/main/docs/csharp/whats-new/csharp-10.md)
-- [What's New in C# 9](https://github.com/dotnet/docs/blob/main/docs/csharp/whats-new/csharp-9.md)
-- [The History of C# (C# 8 and earlier)](https://github.com/dotnet/docs/blob/main/docs/csharp/whats-new/csharp-version-history.md)
+An overview of features added in recent C# versions.
+
+### [C# 8.0 (September 2019)](CSharp8/README.md)
+### [C# 9.0 (November 2020)](CSharp9/README.md)
+
+### References:
+
+- [The History of C# (C# 8 and earlier)](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+- [What's New in C# 9](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
