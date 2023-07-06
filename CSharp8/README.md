@@ -1,5 +1,5 @@
-# CSharp8.csproj
-
+## [csharp-features](../README.md) > CSharp8.csproj
+___
 ### New Features in C# 8.0
 
 - [Readonly members](Features/ReadOnlyMembers.cs)
@@ -19,5 +19,5 @@
 - [Unmanaged constructed types](Features/UnmanagedConstructedTypes.cs)
 - [Stackalloc in nested expressions](Features/StackallocInNestedExpressions.cs)
 - [Enhancement of interpolated verbatim strings](Features/EnhancedInterpolatedVerbatimStrings.cs)
-
+___
 Reference: [The History of C#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)

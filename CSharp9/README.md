@@ -1,5 +1,5 @@
-# CSharp9.csproj
-
+## [csharp-features](../README.md) > CSharp9.csproj
+___
 ### New Features in C# 9.0
 
 - [Records](Features/Records.cs)
@@ -22,5 +22,5 @@
   - Module initializers
   - New features for partial methods
 - Warning wave 5
-
+___
 Reference: [What's New in C# 9](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
